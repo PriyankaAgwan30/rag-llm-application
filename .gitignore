@@ -21,3 +21,6 @@ chroma_db/
 # Editor settings
 .vscode/
 .idea/
+
+# Local agent configuration
+.agents/
