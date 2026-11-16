@@ -1,0 +1,23 @@
+# Python environments
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# API keys and local configuration
+.env
+.env.*
+!.env.example
+
+# Local vector database
+chroma_db/
+
+# macOS files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
